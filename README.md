@@ -1,6 +1,6 @@
 ### Hi there, I'm Johan 👋
 
-#### Lover of tech
+#### <li>Lover of tech</li>
 
 ![Johan's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanpq&show_icons=true&theme=tokyonight)
 
