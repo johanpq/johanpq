@@ -15,10 +15,3 @@
 )
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )
-
-### Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/johan_pedroo/?next=%2F)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/johan-queiroz-57114024b/)
