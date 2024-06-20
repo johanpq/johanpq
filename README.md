@@ -16,3 +16,5 @@
 )
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )
+
+[![](https://visitcount.itsvg.in/api?id=johanpq&label=Profile%20Views&color=5&icon=6&pretty=true)](https://visitcount.itsvg.in)
