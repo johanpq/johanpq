@@ -11,7 +11,15 @@
 
 ###
 
-<p align="left">💻 Developer and code Enthusiast from 🇧🇷 <br>🧠 Lifelong Learner<br>👨‍💻 Problem Solver<br>🎮 Gamer<br>🌍 🌱  📸 Natural, Travel, Photographer Lover<br>🥋 Martial Arts Enthusiast<br><br>I think that's enough 🤣</p>
+<ul align="left">
+  <li>💻 Developer and code Enthusiast from 🇧🇷</li>
+  <li>🧠 Lifelong Learner <strong>頑張りましょう</strong></li>
+  <li>👨‍💻 Problem Solver</li>
+  <li>🎮 Gamer</li>
+  <li>🌍 🌱 📸 Nature, Travel, Photographer Lover</li>
+  <li>🥋 Martial Arts Enthusiast</li>
+  <li>I think that's enough 🤣</li>
+</ul>
 
 ###
 
@@ -28,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -40,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -72,7 +80,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/wmypc8omjthq7qm6eqw5e92tu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wmypc8omjthq7qm6eqw5e92tu&count=1&unique=false" alt="Spotify recently played"  />
   </a>
