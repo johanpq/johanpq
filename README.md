@@ -1,10 +1,13 @@
-<h1 align="center">Hi there, I'm Johan!</h1>
+<h1 align="center">
+  Hi there, I'm Johan!
+  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
+       alt="Waving hand" height="40" />
+</h1>
+
 
 ###
 
-<a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" target="_blank">
-  <img align="right" height="200" src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif"  />
-</a>
+<img align="right" height="200" src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif"  />
 
 ###
 
@@ -25,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -37,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -69,7 +72,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/wmypc8omjthq7qm6eqw5e92tu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wmypc8omjthq7qm6eqw5e92tu&count=1&unique=false" alt="Spotify recently played"  />
   </a>
