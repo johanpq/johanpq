@@ -7,7 +7,9 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif"  />
+<a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" target="_blank">
+  <img align="right" height="200" src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif"  />
+</a>
 
 ###
 
@@ -37,9 +39,13 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/johan.queiroz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/johan-queiroz-57114024b/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
