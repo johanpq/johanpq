@@ -1,20 +1,78 @@
-### Hi there, I'm Johan 👋
+<h1 align="center">Hi there, I'm Johan!</h1>
 
-#### <li>Lover of tech</li>
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanpq&layout=compact)
+<a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" target="_blank">
+  <img align="right" height="200" src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif"  />
+</a>
 
-![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-)
-![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Blog](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-)
-![Blog](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-)
-![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-)
+###
 
-[![](https://visitcount.itsvg.in/api?id=johanpq&label=Profile%20Views&color=5&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<p align="left">💻 Developer and code Enthusiast from 🇧🇷 <br>🧠 Lifelong Learner<br>👨‍💻 Problem Solver<br>🎮 Gamer<br>🌍 🌱  📸 Natural, Travel, Photographer Lover<br>🥋 Martial Arts Enthusiast<br><br>I think that's enough 🤣</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johanpq&radius=16&theme=react&area=false&order=5" height="250" alt="activity-graph graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=johanpq&theme=dracula&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+</div>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h2 align="left">For fun :)</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/wmypc8omjthq7qm6eqw5e92tu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wmypc8omjthq7qm6eqw5e92tu&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
