@@ -17,10 +17,6 @@
   <li>💻 Developer and code Enthusiast from 🇧🇷</li>
   <li>🧠 Lifelong Learner <strong>頑張りましょう</strong></li>
   <li>👨‍💻 Problem Solver</li>
-  <li>🎮 Gamer</li>
-  <li>🌍 🌱 📸 Nature, Travel, Photographer Lover</li>
-  <li>🥋 Martial Arts Enthusiast</li>
-  <li>I think that's enough 🤣</li>
 </ul>
 
 ###
@@ -76,6 +72,9 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
