@@ -17,6 +17,10 @@
   <li>💻 Developer and code Enthusiast from 🇧🇷</li>
   <li>🧠 Lifelong Learner <strong>頑張りましょう</strong></li>
   <li>👨‍💻 Problem Solver</li>
+  <li>📚 Always learning new technologies</li>
+  <li>🌱 Currently improving my skills in Next.js</li>
+  <li>🎮 Gaming and technology enthusiast</li>
+  <li>🤝 Open to collaborations and new challenges</li
 </ul>
 
 ###
@@ -78,20 +82,6 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left">For fun :)</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/wmypc8omjthq7qm6eqw5e92tu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wmypc8omjthq7qm6eqw5e92tu&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
