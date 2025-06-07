@@ -35,33 +35,33 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="42" alt="sass logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootstrap logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="42" alt="c logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="42" alt="vite logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
 </div>
 
 ###
