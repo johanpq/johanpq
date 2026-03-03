@@ -60,7 +60,7 @@ projects:
     arm: 0
     description: "The system helps teachers and personal trainers manage students efficiently through automated calculations and digital workout and health tracking tools."
   - repo: "johanpq/Karate-LandingPage"
-    arm: 1
+    arm: 0
     description: "Dojo Interativo is an interactive landing page designed to teach the Japanese language through Karate-related content."
 
 # Theme color overrides (optional — defaults to deep space palette)
