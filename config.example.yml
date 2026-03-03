@@ -10,24 +10,22 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: johanpq
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "Johan Queiroz"
+  tagline: "Front End Developer"
+  location: "Brazil, RN"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Passionate about interfaces, always aiming to create intuitive and meaningful digital experiences.
+  philosophy: '"Simplicity is not the absence of complexity. It is mastery over it."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "johanp.queiroz@gmail.com"
+  linkedin: "Johan Queiroz"
+  #website: "https://nyxorion.dev"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -38,6 +36,9 @@ galaxy_arms:
     items:
       - "TypeScript"
       - "React"
+      - "Next.js"
+      - "Angular"
+      - "Tailwind"
       - "CSS"
   - name: "Backend"
     color: "synapse_cyan"
@@ -45,12 +46,8 @@ galaxy_arms:
       - "Python"
       - "Node.js"
       - "PostgreSQL"
-  - name: "DevOps"
-    color: "axon_amber"
-    items:
-      - "Docker"
-      - "GitHub Actions"
-      - "AWS"
+      - "MongoDB"
+  
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -58,12 +55,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "johanpq/PERFIT"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "The system helps teachers and personal trainers manage students efficiently through automated calculations and digital workout and health tracking tools."
+  - repo: "johanpq/Karate-LandingPage"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "Dojo Interativo is an interactive landing page designed to teach the Japanese language through Karate-related content."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
