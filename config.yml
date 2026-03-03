@@ -35,8 +35,8 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "TypeScript"
-      - "React"
       - "Next.js"
+      - "React"
       - "Angular"
       - "Tailwind"
       - "CSS"
@@ -45,6 +45,7 @@ galaxy_arms:
     items:
       - "Python"
       - "Node.js"
+      - "Java"
       - "PostgreSQL"
       - "MongoDB"
   
